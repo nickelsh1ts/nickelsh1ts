@@ -65,29 +65,45 @@ Currently a Software Engineer and ServiceNow developer with a passion for learni
 
 <!-- Social Links -->
 <br>
-<p style="display:flex;flex-wrap:flex;justify-content:center;gap:2rem;place-items:center">
-  <a style="border-radius:.375rem;place-items:center" href="https://www.linkedin.com/in/nicholaswege/" rel="noopener noreferrer" target="_blank" title="Take a look at my Linkin profile">
-    <img style="width:2.5rem;height:2.5rem;" src="./assets/linkedIn.svg" alt="LinkedIn icon">
-  </a>
-  <a style="border-radius:.375rem;place-items:center;" href="https://discord.gg/Zmp4nNzYQH" rel="noopener noreferrer" target="_blank" title="Take a look at my NickflixTV server">
-    <img style="width:3.5rem;height:3.5rem;" src="./assets/discord.svg" alt="Discord icon">
-  </a>
-  <a style="border-radius:1rem;place-items:center;" href="https://instagram.com/nickelsh1ts" rel="noopener noreferrer" target="_blank" title="Come follow me on Instagram!">
-    <img style="width:2.5rem;height:2.5rem;" src="./assets/instagram.svg" alt="Instagram icon">
-  </a>
-  <a style="border-radius:.375rem;place-items:center;" href="https://www.youtube.com/@nickelsh1ts" rel="noopener noreferrer" target="_blank" title="Watch my content on Youtube">
-    <img style="width:3rem;height:3rem;" src="./assets/youtube.svg" alt="YouTube icon">
-  </a>
-  <a style="border-radius:.375rem;place-items:center;" href="https://steamcommunity.com/id/nickelsh1ts/" rel="noopener noreferrer" target="_blank" title="Check out my Steam profile!">
-    <img style="width:3rem;height:3rem;" src="./assets/steam.svg" alt="Steam icon">
-  </a>
-  <a style="border-radius:.375rem;place-items:center;" href="https://account.xbox.com/en-ca/profile?gamertag=dontjdgmemnky" rel="noopener noreferrer" target="_blank" title="Add my gamertag on Xbox">
-    <img style="width:3rem;height:3rem;" src="./assets/xbox.svg" alt="Xbox icon">
-  </a>
-  <a style="border-radius:.375rem;place-items:center;" href="https://psnprofiles.com/DntJdgMeMnky" rel="noopener noreferrer" target="_blank" title="Check me out on Playstation">
-    <img style="width:3.5rem;height:3.5rem;" src="./assets/playstation.svg" alt="PlayStation icon">
-  </a>
-</p>
+<table align="center" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td valign="middle" align="center">
+      <a href="https://www.linkedin.com/in/nicholaswege/" rel="noopener noreferrer" target="_blank" title="Take a look at my Linkin profile">
+        <img width="40" height="40" src="./assets/linkedIn.svg" alt="LinkedIn icon">
+      </a>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://discord.gg/Zmp4nNzYQH" rel="noopener noreferrer" target="_blank" title="Take a look at my NickflixTV server">
+        <img width="56" height="56" src="./assets/discord.svg" alt="Discord icon">
+      </a>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://instagram.com/nickelsh1ts" rel="noopener noreferrer" target="_blank" title="Come follow me on Instagram!">
+        <img width="40" height="40" src="./assets/instagram.svg" alt="Instagram icon">
+      </a>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://www.youtube.com/@nickelsh1ts" rel="noopener noreferrer" target="_blank" title="Watch my content on Youtube">
+        <img width="48" height="48" src="./assets/youtube.svg" alt="YouTube icon">
+      </a>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://steamcommunity.com/id/nickelsh1ts/" rel="noopener noreferrer" target="_blank" title="Check out my Steam profile!">
+        <img width="48" height="48" src="./assets/steam.svg" alt="Steam icon">
+      </a>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://account.xbox.com/en-ca/profile?gamertag=dontjdgmemnky" rel="noopener noreferrer" target="_blank" title="Add my gamertag on Xbox">
+        <img width="48" height="48" src="./assets/xbox.svg" alt="Xbox icon">
+      </a>
+    </td>
+    <td valign="middle" align="center">
+      <a href="https://psnprofiles.com/DntJdgMeMnky" rel="noopener noreferrer" target="_blank" title="Check me out on Playstation">
+        <img width="56" height="56" src="./assets/playstation.svg" alt="PlayStation icon">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- Footer Banner -->
 <p align="center">
