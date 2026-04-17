@@ -19,7 +19,7 @@ Currently a Software Engineer and ServiceNow developer with a passion for learni
 - 🌍 I am based in Toronto, Canada
 - 💼 Employed as a ServiceNow developer and system admin
 - 👨‍💻 I am currently learning NextJS, React, and NodeJS
-- 📫 You can reach me at <a href="mailto:nicholase@nickelsh1ts.com">nicholase@nickelsh1ts.com</a>
+- 📫 You can reach me at <a href="mailto:nicholas@nickelsh1ts.com">nicholas@nickelsh1ts.com</a>
 
 <!-- Skills -->
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" alt="🎓" width="32" height="32"> Skills :
