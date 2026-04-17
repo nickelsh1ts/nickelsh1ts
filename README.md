@@ -65,45 +65,35 @@ Currently a Software Engineer and ServiceNow developer with a passion for learni
 
 <!-- Social Links -->
 <br>
-<table align="center" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td valign="middle" align="center">
-      <a href="https://www.linkedin.com/in/nicholaswege/" rel="noopener noreferrer" target="_blank" title="Take a look at my Linkin profile">
-        <img width="40" height="40" src="./assets/linkedIn.svg" alt="LinkedIn icon">
-      </a>
-    </td>
-    <td valign="middle" align="center">
-      <a href="https://discord.gg/Zmp4nNzYQH" rel="noopener noreferrer" target="_blank" title="Take a look at my NickflixTV server">
-        <img width="56" height="56" src="./assets/discord.svg" alt="Discord icon">
-      </a>
-    </td>
-    <td valign="middle" align="center">
-      <a href="https://instagram.com/nickelsh1ts" rel="noopener noreferrer" target="_blank" title="Come follow me on Instagram!">
-        <img width="40" height="40" src="./assets/instagram.svg" alt="Instagram icon">
-      </a>
-    </td>
-    <td valign="middle" align="center">
-      <a href="https://www.youtube.com/@nickelsh1ts" rel="noopener noreferrer" target="_blank" title="Watch my content on Youtube">
-        <img width="48" height="48" src="./assets/youtube.svg" alt="YouTube icon">
-      </a>
-    </td>
-    <td valign="middle" align="center">
-      <a href="https://steamcommunity.com/id/nickelsh1ts/" rel="noopener noreferrer" target="_blank" title="Check out my Steam profile!">
-        <img width="48" height="48" src="./assets/steam.svg" alt="Steam icon">
-      </a>
-    </td>
-    <td valign="middle" align="center">
-      <a href="https://account.xbox.com/en-ca/profile?gamertag=dontjdgmemnky" rel="noopener noreferrer" target="_blank" title="Add my gamertag on Xbox">
-        <img width="48" height="48" src="./assets/xbox.svg" alt="Xbox icon">
-      </a>
-    </td>
-    <td valign="middle" align="center">
-      <a href="https://psnprofiles.com/DntJdgMeMnky" rel="noopener noreferrer" target="_blank" title="Check me out on Playstation">
-        <img width="56" height="56" src="./assets/playstation.svg" alt="PlayStation icon">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nicholaswege/" rel="noopener noreferrer" target="_blank" title="Take a look at my Linkin profile">
+    <img width="48" height="48" src="./assets/linkedIn.svg" alt="LinkedIn icon">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.gg/Zmp4nNzYQH" rel="noopener noreferrer" target="_blank" title="Take a look at my NickflixTV server">
+    <img width="48" height="48" src="./assets/discord.svg" alt="Discord icon">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/nickelsh1ts" rel="noopener noreferrer" target="_blank" title="Come follow me on Instagram!">
+    <img width="48" height="48" src="./assets/instagram.svg" alt="Instagram icon">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@nickelsh1ts" rel="noopener noreferrer" target="_blank" title="Watch my content on Youtube">
+    <img width="48" height="48" src="./assets/youtube.svg" alt="YouTube icon">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://steamcommunity.com/id/nickelsh1ts/" rel="noopener noreferrer" target="_blank" title="Check out my Steam profile!">
+    <img width="48" height="48" src="./assets/steam.svg" alt="Steam icon">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://account.xbox.com/en-ca/profile?gamertag=dontjdgmemnky" rel="noopener noreferrer" target="_blank" title="Add my gamertag on Xbox">
+    <img width="48" height="48" src="./assets/xbox.svg" alt="Xbox icon">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://psnprofiles.com/DntJdgMeMnky" rel="noopener noreferrer" target="_blank" title="Check me out on Playstation">
+    <img width="48" height="48" src="./assets/playstation.svg" alt="PlayStation icon">
+  </a>
+</p>
 
 <!-- Footer Banner -->
 <p align="center">
