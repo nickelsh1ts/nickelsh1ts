@@ -11,8 +11,6 @@
 <!-- Job -->
 <code><samp>[ Software Developer and Engineer ]</samp></code>
 
-<br>
-
 <!-- Intro -->
 <p align="left">
 Currently a Software Engineer and ServiceNow developer with a passion for learning and creating. I enjoy working on projects that challenge me and allow me to grow my skills. In my free time, I like to explore new technologies, contribute to open source projects, and build fun things. 
@@ -59,8 +57,8 @@ Currently a Software Engineer and ServiceNow developer with a passion for learni
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a2/512.gif" alt="🎢" width="32" height="32"> Profile Analytics :
 
 <p style="display:flex;flex-wrap:flex;justify-content:center;place-items:center">
-  <img style="width:35%;height:auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickelsh1ts&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
-  <img style="width:65%;height:auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickelsh1ts&theme=dark" />
+  <img style="width:auto;height:12rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickelsh1ts&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=true&langs_count=10&hide_title=true&theme=dark"/>
+  <img style="width:auto;height:12rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nickelsh1ts&theme=dark" />
 </p>
 
 ---
