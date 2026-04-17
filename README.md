@@ -9,11 +9,7 @@
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3d5_fe0f/512.gif" alt="🏕" width="32" height="32"> Hey, I'm Nick!
 
 <!-- Job -->
-<code>
-  <samp>
-    [ Software Developer and Engineer ]
-  </samp>
-</code>
+<code><samp>[ Software Developer and Engineer ]</samp></code>
 
 <br>
 
