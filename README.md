@@ -65,7 +65,7 @@ Currently a Software Engineer and ServiceNow developer with a passion for learni
 
 <!-- Social Links -->
 <br>
-<div style="display:flex;flex-wrap:flex;justify-content:center;gap:2rem;place-items:center">
+<p style="display:flex;flex-wrap:flex;justify-content:center;gap:2rem;place-items:center">
   <a style="color:#0072b1;border-radius:.375rem;place-items:center;width:2.5rem;height:2.5rem;" href="https://www.linkedin.com/in/nicholaswege/" rel="noopener noreferrer" target="_blank" title="Take a look at my Linkin profile">
     <svg fill="currentColor" style="background:white;border-radius:.4rem" role="img" viewBox="-143 145 512 512" xmlns="http://www.w3.org/2000/svg"><title>Linkedin icon</title><path d="M329,145h-432c-22.1,0-40,17.9-40,40v432c0,22.1,17.9,40,40,40h432c22.1,0,40-17.9,40-40V185C369,162.9,351.1,145,329,145z M41.4,508.1H-8.5V348.4h49.9V508.1z M15.1,328.4h-0.4c-18.1,0-29.8-12.2-29.8-27.7c0-15.8,12.1-27.7,30.5-27.7 c18.4,0,29.7,11.9,30.1,27.7C45.6,316.1,33.9,328.4,15.1,328.4z M241,508.1h-56.6v-82.6c0-21.6-8.8-36.4-28.3-36.4 c-14.9,0-23.2,10-27,19.6c-1.4,3.4-1.2,8.2-1.2,13.1v86.3H71.8c0,0,0.7-146.4,0-159.7h56.1v25.1c3.3-11,21.2-26.6,49.8-26.6 c35.5,0,63.3,23,63.3,72.4V508.1z"></path></svg>
   </a>
@@ -87,7 +87,7 @@ Currently a Software Engineer and ServiceNow developer with a passion for learni
   <a style="color:#0070CC;border-radius:.375rem;place-items:center;width:3.5rem;height:3.5rem;" href="https://psnprofiles.com/DntJdgMeMnky" rel="noopener noreferrer" target="_blank" title="Check me out on Playstation">
     <svg fill="currentColor" class="w-6 h-6" viewBox="0 0 32 32" role="img"><title>PlayStation icon</title><path d="M3.262 24.248c-2.374-0.681-2.767-2.084-1.69-2.899 0.776-0.51 1.668-0.954 2.612-1.288l0.087-0.027 7.017-2.516v2.89l-5.030 1.839c-0.881 0.339-1.031 0.79-0.299 1.032 0.365 0.093 0.783 0.147 1.214 0.147 0.615 0 1.204-0.109 1.749-0.308l-0.035 0.011 2.422-0.882v2.592c-0.15 0.037-0.32 0.055-0.487 0.091-0.775 0.136-1.667 0.214-2.577 0.214-1.778 0-3.486-0.298-5.078-0.846l0.11 0.033zM18.049 24.544l7.868-2.843c0.893-0.322 1.032-0.781 0.307-1.022-0.363-0.089-0.779-0.14-1.208-0.14-0.622 0-1.22 0.108-1.774 0.305l0.037-0.011-5.255 1.874v-2.983l0.3-0.106c1.050-0.349 2.284-0.62 3.557-0.761l0.083-0.008c0.468-0.050 1.010-0.078 1.559-0.078 1.877 0 3.677 0.331 5.343 0.939l-0.108-0.035c2.309 0.751 2.549 1.839 1.969 2.589-0.559 0.557-1.235 0.998-1.988 1.282l-0.039 0.013-10.677 3.883v-2.869zM12.231 4.248v21.927l4.892 1.576v-18.39c0-0.862 0.38-1.438 0.992-1.238 0.795 0.225 0.95 1.017 0.95 1.881v7.342c3.050 1.491 5.451-0.003 5.451-3.939 0-4.045-1.407-5.842-5.546-7.282-1.785-0.648-4.040-1.294-6.347-1.805l-0.389-0.072z"></path></svg>
   </a>
-</div>
+</p>
 
 <!-- Footer Banner -->
 <p align="center">
